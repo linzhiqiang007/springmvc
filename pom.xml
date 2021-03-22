@@ -40,7 +40,7 @@
 		<jackson.version>2.4.2</jackson.version>
 
 		<!-- xml -->
-		<xstream.version>1.4.7</xstream.version>
+		<xstream.version>1.4.16</xstream.version>
 		<msm.kryo.serializer.version>1.8.2</msm.kryo.serializer.version>
 		<commons.digester.version>1.8.1</commons.digester.version>
 
